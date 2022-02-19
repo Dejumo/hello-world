@@ -2,4 +2,4 @@
 
 My first repository on Github
 
-I love ☕ 💰, and 💃
+I love :coffee: :moneybag:, and :dagger:.
